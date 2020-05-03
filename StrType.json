@@ -1,0 +1,79 @@
+{
+    "id": 335945215,
+    "name": "StrType",
+    "dataTypeName": "text",
+    "fieldName": "str_type",
+    "position": 7,
+    "renderTypeName": "text",
+    "tableColumnId": 58504765,
+    "cachedContents": {
+        "largest": "Undetermined",
+        "null": "0",
+        "top": [
+            {
+                "item": "Council Major",
+                "count": "1616"
+            },
+            {
+                "item": "Council Minor",
+                "count": "1200"
+            },
+            {
+                "item": "Private",
+                "count": "574"
+            },
+            {
+                "item": "Arterial",
+                "count": "567"
+            },
+            {
+                "item": "Rail/Tram",
+                "count": "65"
+            },
+            {
+                "item": "Lease/Reserve",
+                "count": "38"
+            },
+            {
+                "item": "River",
+                "count": "33"
+            },
+            {
+                "item": "Citylink",
+                "count": "30"
+            },
+            {
+                "item": "Port Roads",
+                "count": "23"
+            },
+            {
+                "item": "Road Safety Act",
+                "count": "16"
+            },
+            {
+                "item": "Citylink2",
+                "count": "9"
+            },
+            {
+                "item": "Freeway",
+                "count": "8"
+            },
+            {
+                "item": "Proposed Public",
+                "count": "3"
+            },
+            {
+                "item": "Undetermined",
+                "count": "1"
+            },
+            {
+                "item": "Parks Victoria",
+                "count": "1"
+            }
+        ],
+        "not_null": "4184",
+        "smallest": "Arterial",
+        "cardinality": "15"
+    },
+    "format": {}
+}
